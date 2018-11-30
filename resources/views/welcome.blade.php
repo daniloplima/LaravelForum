@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Forum de automação</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -86,13 +86,9 @@
                 <br>
                 Caso tenha interesse em automação, basta se cadastrar no site e participar do mini-forum que disponibilizamos
                 </div>
-
+                <br>
                 <div class="links">
-                    <a href="https://laravel.com/docs">gitHub</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/daniloplima/LaravelVillani">gitHub</a>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>Forum de automatização</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -29,8 +29,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                        {{ config('app.name', 'Laravel') }}
-                    </a>
+                        Forum de automatização                    </a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
@@ -55,16 +54,6 @@
                                     <li>
                                         <a href="{{route('home')}}">
                                             Inicio
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            Minhas perguntas
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            Minhas respostas
                                         </a>
                                     </li>
                                     <li>
